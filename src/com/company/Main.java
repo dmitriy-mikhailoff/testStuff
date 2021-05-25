@@ -11,4 +11,8 @@ public class Main {
     public static int add (int a, int b) {
         return a + b;
     }
+
+    public static void greetings() {
+        System.out.println("He" + add(1,0) + add(1,0) + "o");
+    }
 }
